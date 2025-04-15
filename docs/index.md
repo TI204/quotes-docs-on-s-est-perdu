@@ -5,3 +5,4 @@ Programming Quotes est petite application qui permet d'afficher des citations hu
 ## Membres du groupe
 
 - `initiateur` : CHAINTREAU Maxime
+- `contributeur 1` : DIALLO Ismael
