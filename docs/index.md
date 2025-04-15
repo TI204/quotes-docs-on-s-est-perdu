@@ -6,3 +6,4 @@ Programming Quotes est petite application qui permet d'afficher des citations hu
 
 - `initiateur` : CHAINTREAU Maxime
 - `contributeur 1` : DIALLO Ismael
+- `contributeur 2` : TODOROVIC Nikola
