@@ -1,1 +1,5 @@
 site_name: Documentation Programming Quotes on s est perdu
+
+nav:
+  - Home: index.md
+  - Features: features.md
